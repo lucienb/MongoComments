@@ -2,3 +2,1533 @@ nohup: ignoring input
 Connected
 [0mGET / [36m304 [0m6.990 ms - -[0m
 [0mGET /javascripts/comments.js [36m304 [0m1.795 ms - -[0m
+[0mGET / [32m200 [0m3.217 ms - 617[0m
+[0mGET /javascripts/comments.js [32m200 [0m1.604 ms - 890[0m
+[0mGET /favicon.ico [33m404 [0m382.893 ms - 1738[0m
+POST comment route
+{ Name: 'Lucien', Comment: 'Briscoe' }
+{ _id: 56e2539e3188403b1def5d94,
+  Comment: 'Briscoe',
+  Name: 'Lucien' }
+{ _id: 56e2539e3188403b1def5d94,
+  Comment: 'Briscoe',
+  Name: 'Lucien',
+  __v: 0 }
+[0mPOST /comment [32m200 [0m37.735 ms - 2[0m
+In the GET route?
+[ { __v: 0,
+    Comment: 'Flintstone',
+    Name: 'Fred',
+    _id: 56d8778fc5d9177b4ecd927b },
+  { __v: 0,
+    Comment: 'Flinstone',
+    Name: 'Fred',
+    _id: 56d878409a62bbb84e926718 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'Lucien',
+    _id: 56e1a80b46abe6fa1a002918 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'Lucien',
+    _id: 56e1a80e46abe6fa1a002919 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'Lucien',
+    _id: 56e1a81146abe6fa1a00291a },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'Lucien',
+    _id: 56e1a81246abe6fa1a00291b },
+  { __v: 0,
+    Comment: 'comment2',
+    Name: 'User',
+    _id: 56e1a81c46abe6fa1a00291c },
+  { __v: 0,
+    Comment: 'Briscoe',
+    Name: 'Lucien',
+    _id: 56e1aa73b7f60e5e1bb6547f },
+  { __v: 0,
+    Comment: 'Briscoe',
+    Name: 'Lucien',
+    _id: 56e1aa8ceff599761b553721 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'New',
+    _id: 56e1aa99eff599761b553722 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'New',
+    _id: 56e1aa9feff599761b553723 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'New',
+    _id: 56e1aa9feff599761b553724 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'New',
+    _id: 56e1aaa0eff599761b553725 },
+  { __v: 0,
+    Comment: 'comment1',
+    Name: 'user',
+    _id: 56e1abe842bdceaf1b97e126 },
+  { __v: 0,
+    Comment: 'Briscoe',
+    Name: 'Lucien',
+    _id: 56e2539e3188403b1def5d94 } ]
+[0mGET /comment [32m200 [0m20.865 ms - 1173[0m
+[0mGET / [32m200 [0m1.341 ms - 1439[0m
+[0mGET /javascripts/comments.js [36m304 [0m0.522 ms - -[0m
+[0mGET /stylesheets/bootstrap.css [32m200 [0m0.968 ms - 156811[0m
+[0mGET / [32m200 [0m1.149 ms - 1448[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m1.633 ms - -[0m
+[0mGET /javascripts/comments.js [36m304 [0m1.114 ms - -[0m
+[0mGET / [32m200 [0m2.045 ms - 1243[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m0.397 ms - -[0m
+[0mGET /javascripts/comments.js [36m304 [0m0.386 ms - -[0m
+[0mGET / [32m200 [0m0.660 ms - 1248[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m0.378 ms - -[0m
+[0mGET /javascripts/comments.js [36m304 [0m0.249 ms - -[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m0.423 ms - -[0m
+[0mGET / [32m200 [0m0.727 ms - 1248[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m0.811 ms - -[0m
+[0mGET /javascripts/comments.js [36m304 [0m0.711 ms - -[0m
+[0mGET / [32m200 [0m1.466 ms - 1268[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m0.412 ms - -[0m
+[0mGET /javascripts/comments.js [36m304 [0m2.175 ms - -[0m
+[0mGET / [32m200 [0m0.611 ms - 1276[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m0.437 ms - -[0m
+[0mGET /javascripts/comments.js [36m304 [0m0.663 ms - -[0m
+[0mGET / [32m200 [0m1.289 ms - 1292[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m0.473 ms - -[0m
+[0mGET /javascripts/comments.js [36m304 [0m0.286 ms - -[0m
+[0mGET / [32m200 [0m0.970 ms - 1292[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m3.165 ms - -[0m
+[0mGET /javascripts/comments.js [36m304 [0m0.569 ms - -[0m
+[0mGET / [32m200 [0m0.717 ms - 1312[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m0.330 ms - -[0m
+[0mGET /javascripts/comments.js [36m304 [0m0.229 ms - -[0m
+[0mGET / [36m304 [0m0.530 ms - -[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m0.480 ms - -[0m
+[0mGET /javascripts/comments.js [36m304 [0m0.362 ms - -[0m
+[0mGET / [36m304 [0m0.392 ms - -[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m0.526 ms - -[0m
+[0mGET /javascripts/comments.js [36m304 [0m0.739 ms - -[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m0.416 ms - -[0m
+[0mGET / [32m200 [0m0.645 ms - 1315[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m1.250 ms - -[0m
+[0mGET /javascripts/comments.js [36m304 [0m0.662 ms - -[0m
+[0mGET /stylesheets/bootstrap.css [32m200 [0m0.570 ms - 156811[0m
+In the GET route?
+[ { __v: 0,
+    Comment: 'Flintstone',
+    Name: 'Fred',
+    _id: 56d8778fc5d9177b4ecd927b },
+  { __v: 0,
+    Comment: 'Flinstone',
+    Name: 'Fred',
+    _id: 56d878409a62bbb84e926718 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'Lucien',
+    _id: 56e1a80b46abe6fa1a002918 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'Lucien',
+    _id: 56e1a80e46abe6fa1a002919 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'Lucien',
+    _id: 56e1a81146abe6fa1a00291a },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'Lucien',
+    _id: 56e1a81246abe6fa1a00291b },
+  { __v: 0,
+    Comment: 'comment2',
+    Name: 'User',
+    _id: 56e1a81c46abe6fa1a00291c },
+  { __v: 0,
+    Comment: 'Briscoe',
+    Name: 'Lucien',
+    _id: 56e1aa73b7f60e5e1bb6547f },
+  { __v: 0,
+    Comment: 'Briscoe',
+    Name: 'Lucien',
+    _id: 56e1aa8ceff599761b553721 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'New',
+    _id: 56e1aa99eff599761b553722 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'New',
+    _id: 56e1aa9feff599761b553723 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'New',
+    _id: 56e1aa9feff599761b553724 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'New',
+    _id: 56e1aaa0eff599761b553725 },
+  { __v: 0,
+    Comment: 'comment1',
+    Name: 'user',
+    _id: 56e1abe842bdceaf1b97e126 },
+  { __v: 0,
+    Comment: 'Briscoe',
+    Name: 'Lucien',
+    _id: 56e2539e3188403b1def5d94 } ]
+[0mGET /comment [36m304 [0m8.851 ms - -[0m
+[0mGET / [32m200 [0m0.733 ms - 1688[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m0.431 ms - -[0m
+[0mGET /javascripts/comments.js [36m304 [0m0.323 ms - -[0m
+[0mGET /stylesheets/bootstrap.css [32m200 [0m0.751 ms - 156811[0m
+[0mGET / [32m200 [0m0.617 ms - 1750[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m0.455 ms - -[0m
+[0mGET /javascripts/comments.js [36m304 [0m0.370 ms - -[0m
+[0mGET /stylesheets/bootstrap.css [32m200 [0m0.577 ms - 156811[0m
+[0mGET / [32m200 [0m0.615 ms - 1742[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m0.531 ms - -[0m
+[0mGET /javascripts/comments.js [36m304 [0m0.256 ms - -[0m
+[0mGET /stylesheets/bootstrap.css [32m200 [0m0.671 ms - 156811[0m
+[0mGET / [32m200 [0m2.031 ms - 1787[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m0.402 ms - -[0m
+[0mGET /javascripts/comments.js [36m304 [0m1.102 ms - -[0m
+[0mGET /stylesheets/bootstrap.css [32m200 [0m1.237 ms - 156811[0m
+[0mGET / [32m200 [0m0.644 ms - 1849[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m0.505 ms - -[0m
+[0mGET /javascripts/comments.js [36m304 [0m0.691 ms - -[0m
+[0mGET /stylesheets/bootstrap.css [32m200 [0m1.119 ms - 156811[0m
+[0mGET / [36m304 [0m0.453 ms - -[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m0.374 ms - -[0m
+[0mGET /javascripts/comments.js [36m304 [0m0.327 ms - -[0m
+[0mGET /stylesheets/bootstrap.css [32m200 [0m0.610 ms - 156811[0m
+[0mGET / [32m200 [0m0.669 ms - 1854[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m0.625 ms - -[0m
+[0mGET /javascripts/comments.js [36m304 [0m0.276 ms - -[0m
+[0mGET / [32m200 [0m0.659 ms - 1849[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m0.893 ms - -[0m
+[0mGET /javascripts/comments.js [36m304 [0m1.382 ms - -[0m
+[0mGET /stylesheets/bootstrap.css [32m200 [0m0.778 ms - 156811[0m
+[0mGET / [32m200 [0m1.353 ms - 1879[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m1.275 ms - -[0m
+[0mGET /javascripts/comments.js [36m304 [0m0.339 ms - -[0m
+[0mGET /stylesheets/bootstrap.css [32m200 [0m0.531 ms - 156811[0m
+[0mGET / [32m200 [0m1.392 ms - 1891[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m0.379 ms - -[0m
+[0mGET /javascripts/comments.js [36m304 [0m0.313 ms - -[0m
+[0mGET /stylesheets/bootstrap.css [32m200 [0m0.618 ms - 156811[0m
+[0mGET / [32m200 [0m1.390 ms - 1908[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m0.371 ms - -[0m
+[0mGET /javascripts/comments.js [36m304 [0m0.228 ms - -[0m
+[0mGET /stylesheets/bootstrap.css [32m200 [0m0.675 ms - 156811[0m
+[0mGET / [32m200 [0m0.677 ms - 1931[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m0.480 ms - -[0m
+[0mGET /javascripts/comments.js [36m304 [0m1.580 ms - -[0m
+[0mGET /stylesheets/bootstrap.css [32m200 [0m1.592 ms - 156811[0m
+[0mGET / [32m200 [0m0.630 ms - 1936[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m0.557 ms - -[0m
+[0mGET /javascripts/comments.js [36m304 [0m0.319 ms - -[0m
+In the GET route?
+[ { __v: 0,
+    Comment: 'Flintstone',
+    Name: 'Fred',
+    _id: 56d8778fc5d9177b4ecd927b },
+  { __v: 0,
+    Comment: 'Flinstone',
+    Name: 'Fred',
+    _id: 56d878409a62bbb84e926718 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'Lucien',
+    _id: 56e1a80b46abe6fa1a002918 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'Lucien',
+    _id: 56e1a80e46abe6fa1a002919 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'Lucien',
+    _id: 56e1a81146abe6fa1a00291a },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'Lucien',
+    _id: 56e1a81246abe6fa1a00291b },
+  { __v: 0,
+    Comment: 'comment2',
+    Name: 'User',
+    _id: 56e1a81c46abe6fa1a00291c },
+  { __v: 0,
+    Comment: 'Briscoe',
+    Name: 'Lucien',
+    _id: 56e1aa73b7f60e5e1bb6547f },
+  { __v: 0,
+    Comment: 'Briscoe',
+    Name: 'Lucien',
+    _id: 56e1aa8ceff599761b553721 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'New',
+    _id: 56e1aa99eff599761b553722 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'New',
+    _id: 56e1aa9feff599761b553723 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'New',
+    _id: 56e1aa9feff599761b553724 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'New',
+    _id: 56e1aaa0eff599761b553725 },
+  { __v: 0,
+    Comment: 'comment1',
+    Name: 'user',
+    _id: 56e1abe842bdceaf1b97e126 },
+  { __v: 0,
+    Comment: 'Briscoe',
+    Name: 'Lucien',
+    _id: 56e2539e3188403b1def5d94 } ]
+[0mGET /comment [36m304 [0m12.401 ms - -[0m
+POST comment route
+{ Name: 'Lucien', Comment: 'Briscoe' }
+{ _id: 56e25c1a3188403b1def5d95,
+  Comment: 'Briscoe',
+  Name: 'Lucien' }
+{ _id: 56e25c1a3188403b1def5d95,
+  Comment: 'Briscoe',
+  Name: 'Lucien',
+  __v: 0 }
+[0mPOST /comment [32m200 [0m4.755 ms - 2[0m
+[0mGET /? [32m200 [0m0.484 ms - 1936[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m0.437 ms - -[0m
+[0mGET /javascripts/comments.js [36m304 [0m0.245 ms - -[0m
+In the GET route?
+[ { __v: 0,
+    Comment: 'Flintstone',
+    Name: 'Fred',
+    _id: 56d8778fc5d9177b4ecd927b },
+  { __v: 0,
+    Comment: 'Flinstone',
+    Name: 'Fred',
+    _id: 56d878409a62bbb84e926718 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'Lucien',
+    _id: 56e1a80b46abe6fa1a002918 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'Lucien',
+    _id: 56e1a80e46abe6fa1a002919 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'Lucien',
+    _id: 56e1a81146abe6fa1a00291a },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'Lucien',
+    _id: 56e1a81246abe6fa1a00291b },
+  { __v: 0,
+    Comment: 'comment2',
+    Name: 'User',
+    _id: 56e1a81c46abe6fa1a00291c },
+  { __v: 0,
+    Comment: 'Briscoe',
+    Name: 'Lucien',
+    _id: 56e1aa73b7f60e5e1bb6547f },
+  { __v: 0,
+    Comment: 'Briscoe',
+    Name: 'Lucien',
+    _id: 56e1aa8ceff599761b553721 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'New',
+    _id: 56e1aa99eff599761b553722 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'New',
+    _id: 56e1aa9feff599761b553723 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'New',
+    _id: 56e1aa9feff599761b553724 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'New',
+    _id: 56e1aaa0eff599761b553725 },
+  { __v: 0,
+    Comment: 'comment1',
+    Name: 'user',
+    _id: 56e1abe842bdceaf1b97e126 },
+  { __v: 0,
+    Comment: 'Briscoe',
+    Name: 'Lucien',
+    _id: 56e2539e3188403b1def5d94 },
+  { __v: 0,
+    Comment: 'Briscoe',
+    Name: 'Lucien',
+    _id: 56e25c1a3188403b1def5d95 } ]
+[0mGET /comment [32m200 [0m7.281 ms - 1252[0m
+[0mGET /? [32m200 [0m0.746 ms - -[0m
+[0mGET /? [32m200 [0m0.725 ms - 1945[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m0.385 ms - -[0m
+[0mGET /javascripts/comments.js [36m304 [0m0.241 ms - -[0m
+[0mGET /? [32m200 [0m1.659 ms - 1842[0m
+[0mGET /javascripts/comments.js [36m304 [0m0.375 ms - -[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m0.380 ms - -[0m
+[0mGET /stylesheets/bootstrap.css [32m200 [0m0.648 ms - 156811[0m
+[0mGET /? [32m200 [0m0.586 ms - 1993[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m0.391 ms - -[0m
+[0mGET /javascripts/comments.js [32m200 [0m0.548 ms - 1001[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m0.433 ms - -[0m
+In the GET route?
+[ { __v: 0,
+    Comment: 'Flintstone',
+    Name: 'Fred',
+    _id: 56d8778fc5d9177b4ecd927b },
+  { __v: 0,
+    Comment: 'Flinstone',
+    Name: 'Fred',
+    _id: 56d878409a62bbb84e926718 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'Lucien',
+    _id: 56e1a80b46abe6fa1a002918 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'Lucien',
+    _id: 56e1a80e46abe6fa1a002919 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'Lucien',
+    _id: 56e1a81146abe6fa1a00291a },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'Lucien',
+    _id: 56e1a81246abe6fa1a00291b },
+  { __v: 0,
+    Comment: 'comment2',
+    Name: 'User',
+    _id: 56e1a81c46abe6fa1a00291c },
+  { __v: 0,
+    Comment: 'Briscoe',
+    Name: 'Lucien',
+    _id: 56e1aa73b7f60e5e1bb6547f },
+  { __v: 0,
+    Comment: 'Briscoe',
+    Name: 'Lucien',
+    _id: 56e1aa8ceff599761b553721 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'New',
+    _id: 56e1aa99eff599761b553722 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'New',
+    _id: 56e1aa9feff599761b553723 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'New',
+    _id: 56e1aa9feff599761b553724 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'New',
+    _id: 56e1aaa0eff599761b553725 },
+  { __v: 0,
+    Comment: 'comment1',
+    Name: 'user',
+    _id: 56e1abe842bdceaf1b97e126 },
+  { __v: 0,
+    Comment: 'Briscoe',
+    Name: 'Lucien',
+    _id: 56e2539e3188403b1def5d94 },
+  { __v: 0,
+    Comment: 'Briscoe',
+    Name: 'Lucien',
+    _id: 56e25c1a3188403b1def5d95 } ]
+[0mGET /comment [36m304 [0m9.356 ms - -[0m
+[0mGET /? [36m304 [0m0.406 ms - -[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m1.045 ms - -[0m
+[0mGET /javascripts/comments.js [32m200 [0m0.918 ms - 1010[0m
+[0mGET /stylesheets/bootstrap.css [32m200 [0m0.667 ms - 156811[0m
+In the GET route?
+[ { __v: 0,
+    Comment: 'Flintstone',
+    Name: 'Fred',
+    _id: 56d8778fc5d9177b4ecd927b },
+  { __v: 0,
+    Comment: 'Flinstone',
+    Name: 'Fred',
+    _id: 56d878409a62bbb84e926718 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'Lucien',
+    _id: 56e1a80b46abe6fa1a002918 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'Lucien',
+    _id: 56e1a80e46abe6fa1a002919 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'Lucien',
+    _id: 56e1a81146abe6fa1a00291a },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'Lucien',
+    _id: 56e1a81246abe6fa1a00291b },
+  { __v: 0,
+    Comment: 'comment2',
+    Name: 'User',
+    _id: 56e1a81c46abe6fa1a00291c },
+  { __v: 0,
+    Comment: 'Briscoe',
+    Name: 'Lucien',
+    _id: 56e1aa73b7f60e5e1bb6547f },
+  { __v: 0,
+    Comment: 'Briscoe',
+    Name: 'Lucien',
+    _id: 56e1aa8ceff599761b553721 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'New',
+    _id: 56e1aa99eff599761b553722 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'New',
+    _id: 56e1aa9feff599761b553723 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'New',
+    _id: 56e1aa9feff599761b553724 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'New',
+    _id: 56e1aaa0eff599761b553725 },
+  { __v: 0,
+    Comment: 'comment1',
+    Name: 'user',
+    _id: 56e1abe842bdceaf1b97e126 },
+  { __v: 0,
+    Comment: 'Briscoe',
+    Name: 'Lucien',
+    _id: 56e2539e3188403b1def5d94 },
+  { __v: 0,
+    Comment: 'Briscoe',
+    Name: 'Lucien',
+    _id: 56e25c1a3188403b1def5d95 } ]
+[0mGET /comment [36m304 [0m10.680 ms - -[0m
+[0mGET /? [36m304 [0m0.425 ms - -[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m0.524 ms - -[0m
+[0mGET /javascripts/comments.js [32m200 [0m0.620 ms - 1014[0m
+[0mGET /stylesheets/bootstrap.css [32m200 [0m0.562 ms - 156811[0m
+In the GET route?
+[ { __v: 0,
+    Comment: 'Flintstone',
+    Name: 'Fred',
+    _id: 56d8778fc5d9177b4ecd927b },
+  { __v: 0,
+    Comment: 'Flinstone',
+    Name: 'Fred',
+    _id: 56d878409a62bbb84e926718 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'Lucien',
+    _id: 56e1a80b46abe6fa1a002918 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'Lucien',
+    _id: 56e1a80e46abe6fa1a002919 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'Lucien',
+    _id: 56e1a81146abe6fa1a00291a },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'Lucien',
+    _id: 56e1a81246abe6fa1a00291b },
+  { __v: 0,
+    Comment: 'comment2',
+    Name: 'User',
+    _id: 56e1a81c46abe6fa1a00291c },
+  { __v: 0,
+    Comment: 'Briscoe',
+    Name: 'Lucien',
+    _id: 56e1aa73b7f60e5e1bb6547f },
+  { __v: 0,
+    Comment: 'Briscoe',
+    Name: 'Lucien',
+    _id: 56e1aa8ceff599761b553721 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'New',
+    _id: 56e1aa99eff599761b553722 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'New',
+    _id: 56e1aa9feff599761b553723 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'New',
+    _id: 56e1aa9feff599761b553724 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'New',
+    _id: 56e1aaa0eff599761b553725 },
+  { __v: 0,
+    Comment: 'comment1',
+    Name: 'user',
+    _id: 56e1abe842bdceaf1b97e126 },
+  { __v: 0,
+    Comment: 'Briscoe',
+    Name: 'Lucien',
+    _id: 56e2539e3188403b1def5d94 },
+  { __v: 0,
+    Comment: 'Briscoe',
+    Name: 'Lucien',
+    _id: 56e25c1a3188403b1def5d95 } ]
+[0mGET /comment [36m304 [0m6.816 ms - -[0m
+[0mGET /? [32m200 [0m1.405 ms - 2007[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m1.137 ms - -[0m
+[0mGET /javascripts/comments.js [36m304 [0m4.221 ms - -[0m
+[0mGET /stylesheets/bootstrap.css [32m200 [0m0.620 ms - 156811[0m
+In the GET route?
+[ { __v: 0,
+    Comment: 'Flintstone',
+    Name: 'Fred',
+    _id: 56d8778fc5d9177b4ecd927b },
+  { __v: 0,
+    Comment: 'Flinstone',
+    Name: 'Fred',
+    _id: 56d878409a62bbb84e926718 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'Lucien',
+    _id: 56e1a80b46abe6fa1a002918 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'Lucien',
+    _id: 56e1a80e46abe6fa1a002919 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'Lucien',
+    _id: 56e1a81146abe6fa1a00291a },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'Lucien',
+    _id: 56e1a81246abe6fa1a00291b },
+  { __v: 0,
+    Comment: 'comment2',
+    Name: 'User',
+    _id: 56e1a81c46abe6fa1a00291c },
+  { __v: 0,
+    Comment: 'Briscoe',
+    Name: 'Lucien',
+    _id: 56e1aa73b7f60e5e1bb6547f },
+  { __v: 0,
+    Comment: 'Briscoe',
+    Name: 'Lucien',
+    _id: 56e1aa8ceff599761b553721 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'New',
+    _id: 56e1aa99eff599761b553722 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'New',
+    _id: 56e1aa9feff599761b553723 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'New',
+    _id: 56e1aa9feff599761b553724 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'New',
+    _id: 56e1aaa0eff599761b553725 },
+  { __v: 0,
+    Comment: 'comment1',
+    Name: 'user',
+    _id: 56e1abe842bdceaf1b97e126 },
+  { __v: 0,
+    Comment: 'Briscoe',
+    Name: 'Lucien',
+    _id: 56e2539e3188403b1def5d94 },
+  { __v: 0,
+    Comment: 'Briscoe',
+    Name: 'Lucien',
+    _id: 56e25c1a3188403b1def5d95 } ]
+[0mGET /comment [36m304 [0m8.370 ms - -[0m
+POST comment route
+{ Name: 'Test', Comment: 'Serialize' }
+{ _id: 56e25fb53188403b1def5d96,
+  Comment: 'Serialize',
+  Name: 'Test' }
+{ _id: 56e25fb53188403b1def5d96,
+  Comment: 'Serialize',
+  Name: 'Test',
+  __v: 0 }
+[0mPOST /comment [32m200 [0m5.839 ms - 2[0m
+[0mGET /? [36m304 [0m0.396 ms - -[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m0.505 ms - -[0m
+[0mGET /javascripts/comments.js [36m304 [0m0.274 ms - -[0m
+[0mGET /? [32m200 [0m1.155 ms - 2008[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m0.646 ms - -[0m
+[0mGET /javascripts/comments.js [36m304 [0m0.695 ms - -[0m
+[0mGET /stylesheets/bootstrap.css [32m200 [0m0.901 ms - 156811[0m
+POST comment route
+{ Name: '', Comment: '' }
+{ _id: 56e25fe23188403b1def5d97, Comment: '', Name: '' }
+{ _id: 56e25fe23188403b1def5d97, Comment: '', Name: '', __v: 0 }
+[0mPOST /comment [32m200 [0m3.830 ms - 2[0m
+[0mGET /? [36m304 [0m0.481 ms - -[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m1.930 ms - -[0m
+[0mGET /javascripts/comments.js [36m304 [0m0.429 ms - -[0m
+POST comment route
+{ Name: 'Try', Comment: 'To' }
+{ _id: 56e25feb3188403b1def5d98, Comment: 'To', Name: 'Try' }
+{ _id: 56e25feb3188403b1def5d98,
+  Comment: 'To',
+  Name: 'Try',
+  __v: 0 }
+[0mPOST /comment [32m200 [0m3.278 ms - 2[0m
+[0mGET /? [36m304 [0m0.294 ms - -[0m
+[0mGET /javascripts/comments.js [36m304 [0m0.730 ms - -[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m0.686 ms - -[0m
+In the GET route?
+[ { __v: 0,
+    Comment: 'Flintstone',
+    Name: 'Fred',
+    _id: 56d8778fc5d9177b4ecd927b },
+  { __v: 0,
+    Comment: 'Flinstone',
+    Name: 'Fred',
+    _id: 56d878409a62bbb84e926718 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'Lucien',
+    _id: 56e1a80b46abe6fa1a002918 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'Lucien',
+    _id: 56e1a80e46abe6fa1a002919 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'Lucien',
+    _id: 56e1a81146abe6fa1a00291a },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'Lucien',
+    _id: 56e1a81246abe6fa1a00291b },
+  { __v: 0,
+    Comment: 'comment2',
+    Name: 'User',
+    _id: 56e1a81c46abe6fa1a00291c },
+  { __v: 0,
+    Comment: 'Briscoe',
+    Name: 'Lucien',
+    _id: 56e1aa73b7f60e5e1bb6547f },
+  { __v: 0,
+    Comment: 'Briscoe',
+    Name: 'Lucien',
+    _id: 56e1aa8ceff599761b553721 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'New',
+    _id: 56e1aa99eff599761b553722 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'New',
+    _id: 56e1aa9feff599761b553723 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'New',
+    _id: 56e1aa9feff599761b553724 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'New',
+    _id: 56e1aaa0eff599761b553725 },
+  { __v: 0,
+    Comment: 'comment1',
+    Name: 'user',
+    _id: 56e1abe842bdceaf1b97e126 },
+  { __v: 0,
+    Comment: 'Briscoe',
+    Name: 'Lucien',
+    _id: 56e2539e3188403b1def5d94 },
+  { __v: 0,
+    Comment: 'Briscoe',
+    Name: 'Lucien',
+    _id: 56e25c1a3188403b1def5d95 },
+  { __v: 0,
+    Comment: 'Serialize',
+    Name: 'Test',
+    _id: 56e25fb53188403b1def5d96 },
+  { __v: 0, Comment: '', Name: '', _id: 56e25fe23188403b1def5d97 },
+  { __v: 0,
+    Comment: 'To',
+    Name: 'Try',
+    _id: 56e25feb3188403b1def5d98 } ]
+[0mGET /comment [32m200 [0m11.058 ms - 1468[0m
+POST comment route
+{ Name: 'So', Comment: 'Over' }
+{ _id: 56e2614a3188403b1def5d99, Comment: 'Over', Name: 'So' }
+{ _id: 56e2614a3188403b1def5d99,
+  Comment: 'Over',
+  Name: 'So',
+  __v: 0 }
+[0mPOST /comment [32m200 [0m2.339 ms - 2[0m
+[0mGET /? [36m304 [0m0.322 ms - -[0m
+[0mGET /javascripts/comments.js [36m304 [0m0.375 ms - -[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m0.330 ms - -[0m
+In the GET route?
+[ { __v: 0,
+    Comment: 'Flintstone',
+    Name: 'Fred',
+    _id: 56d8778fc5d9177b4ecd927b },
+  { __v: 0,
+    Comment: 'Flinstone',
+    Name: 'Fred',
+    _id: 56d878409a62bbb84e926718 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'Lucien',
+    _id: 56e1a80b46abe6fa1a002918 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'Lucien',
+    _id: 56e1a80e46abe6fa1a002919 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'Lucien',
+    _id: 56e1a81146abe6fa1a00291a },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'Lucien',
+    _id: 56e1a81246abe6fa1a00291b },
+  { __v: 0,
+    Comment: 'comment2',
+    Name: 'User',
+    _id: 56e1a81c46abe6fa1a00291c },
+  { __v: 0,
+    Comment: 'Briscoe',
+    Name: 'Lucien',
+    _id: 56e1aa73b7f60e5e1bb6547f },
+  { __v: 0,
+    Comment: 'Briscoe',
+    Name: 'Lucien',
+    _id: 56e1aa8ceff599761b553721 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'New',
+    _id: 56e1aa99eff599761b553722 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'New',
+    _id: 56e1aa9feff599761b553723 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'New',
+    _id: 56e1aa9feff599761b553724 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'New',
+    _id: 56e1aaa0eff599761b553725 },
+  { __v: 0,
+    Comment: 'comment1',
+    Name: 'user',
+    _id: 56e1abe842bdceaf1b97e126 },
+  { __v: 0,
+    Comment: 'Briscoe',
+    Name: 'Lucien',
+    _id: 56e2539e3188403b1def5d94 },
+  { __v: 0,
+    Comment: 'Briscoe',
+    Name: 'Lucien',
+    _id: 56e25c1a3188403b1def5d95 },
+  { __v: 0,
+    Comment: 'Serialize',
+    Name: 'Test',
+    _id: 56e25fb53188403b1def5d96 },
+  { __v: 0, Comment: '', Name: '', _id: 56e25fe23188403b1def5d97 },
+  { __v: 0,
+    Comment: 'To',
+    Name: 'Try',
+    _id: 56e25feb3188403b1def5d98 },
+  { __v: 0,
+    Comment: 'Over',
+    Name: 'So',
+    _id: 56e2614a3188403b1def5d99 } ]
+[0mGET /comment [32m200 [0m8.816 ms - 1540[0m
+[0mGET /? [32m200 [0m1.304 ms - 2142[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m0.400 ms - -[0m
+[0mGET /javascripts/comments.js [32m200 [0m0.623 ms - 1039[0m
+[0mGET /stylesheets/bootstrap.css [32m200 [0m0.797 ms - 156811[0m
+POST comment route
+{ Name: 'Lucien', Comment: 'Hello there from the other side!' }
+{ _id: 56e262553188403b1def5d9a,
+  Comment: 'Hello there from the other side!',
+  Name: 'Lucien' }
+{ _id: 56e262553188403b1def5d9a,
+  Comment: 'Hello there from the other side!',
+  Name: 'Lucien',
+  __v: 0 }
+[0mPOST /comment [32m200 [0m2.399 ms - 2[0m
+[0mGET /? [36m304 [0m0.296 ms - -[0m
+[0mGET /javascripts/comments.js [36m304 [0m0.397 ms - -[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m0.286 ms - -[0m
+[0mGET /? [32m200 [0m1.246 ms - 2158[0m
+[0mGET /javascripts/comments.js [36m304 [0m0.420 ms - -[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m0.335 ms - -[0m
+[0mGET /stylesheets/bootstrap.css [32m200 [0m0.619 ms - 156811[0m
+POST comment route
+{ Name: '', Comment: '' }
+{ _id: 56e262863188403b1def5d9b, Comment: '', Name: '' }
+{ _id: 56e262863188403b1def5d9b, Comment: '', Name: '', __v: 0 }
+[0mPOST /comment [32m200 [0m6.906 ms - 2[0m
+[0mGET /? [36m304 [0m0.482 ms - -[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m0.450 ms - -[0m
+[0mGET /javascripts/comments.js [36m304 [0m0.246 ms - -[0m
+In the GET route?
+[ { __v: 0,
+    Comment: 'Flintstone',
+    Name: 'Fred',
+    _id: 56d8778fc5d9177b4ecd927b },
+  { __v: 0,
+    Comment: 'Flinstone',
+    Name: 'Fred',
+    _id: 56d878409a62bbb84e926718 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'Lucien',
+    _id: 56e1a80b46abe6fa1a002918 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'Lucien',
+    _id: 56e1a80e46abe6fa1a002919 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'Lucien',
+    _id: 56e1a81146abe6fa1a00291a },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'Lucien',
+    _id: 56e1a81246abe6fa1a00291b },
+  { __v: 0,
+    Comment: 'comment2',
+    Name: 'User',
+    _id: 56e1a81c46abe6fa1a00291c },
+  { __v: 0,
+    Comment: 'Briscoe',
+    Name: 'Lucien',
+    _id: 56e1aa73b7f60e5e1bb6547f },
+  { __v: 0,
+    Comment: 'Briscoe',
+    Name: 'Lucien',
+    _id: 56e1aa8ceff599761b553721 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'New',
+    _id: 56e1aa99eff599761b553722 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'New',
+    _id: 56e1aa9feff599761b553723 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'New',
+    _id: 56e1aa9feff599761b553724 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'New',
+    _id: 56e1aaa0eff599761b553725 },
+  { __v: 0,
+    Comment: 'comment1',
+    Name: 'user',
+    _id: 56e1abe842bdceaf1b97e126 },
+  { __v: 0,
+    Comment: 'Briscoe',
+    Name: 'Lucien',
+    _id: 56e2539e3188403b1def5d94 },
+  { __v: 0,
+    Comment: 'Briscoe',
+    Name: 'Lucien',
+    _id: 56e25c1a3188403b1def5d95 },
+  { __v: 0,
+    Comment: 'Serialize',
+    Name: 'Test',
+    _id: 56e25fb53188403b1def5d96 },
+  { __v: 0, Comment: '', Name: '', _id: 56e25fe23188403b1def5d97 },
+  { __v: 0,
+    Comment: 'To',
+    Name: 'Try',
+    _id: 56e25feb3188403b1def5d98 },
+  { __v: 0,
+    Comment: 'Over',
+    Name: 'So',
+    _id: 56e2614a3188403b1def5d99 },
+  { __v: 0,
+    Comment: 'Hello there from the other side!',
+    Name: 'Lucien',
+    _id: 56e262553188403b1def5d9a },
+  { __v: 0, Comment: '', Name: '', _id: 56e262863188403b1def5d9b } ]
+[0mGET /comment [32m200 [0m10.409 ms - 1710[0m
+POST comment route
+{ Name: 'try', Comment: 'again' }
+{ _id: 56e262ce3188403b1def5d9c, Comment: 'again', Name: 'try' }
+{ _id: 56e262ce3188403b1def5d9c,
+  Comment: 'again',
+  Name: 'try',
+  __v: 0 }
+[0mPOST /comment [32m200 [0m3.967 ms - 2[0m
+[0mGET /? [36m304 [0m0.452 ms - -[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m1.247 ms - -[0m
+[0mGET /javascripts/comments.js [36m304 [0m1.257 ms - -[0m
+[0mGET /? [32m200 [0m0.660 ms - 2133[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m0.694 ms - -[0m
+[0mGET /javascripts/comments.js [36m304 [0m0.639 ms - -[0m
+[0mGET /stylesheets/bootstrap.css [32m200 [0m0.674 ms - 156811[0m
+POST comment route
+{ Name: 'Hello', Comment: 'From the other side' }
+{ _id: 56e263003188403b1def5d9d,
+  Comment: 'From the other side',
+  Name: 'Hello' }
+{ _id: 56e263003188403b1def5d9d,
+  Comment: 'From the other side',
+  Name: 'Hello',
+  __v: 0 }
+[0mPOST /comment [32m200 [0m3.885 ms - 2[0m
+[0mGET /? [36m304 [0m0.291 ms - -[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m0.435 ms - -[0m
+[0mGET /javascripts/comments.js [36m304 [0m0.196 ms - -[0m
+[0mGET /? [32m200 [0m0.621 ms - 2147[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m1.095 ms - -[0m
+[0mGET /javascripts/comments.js [32m200 [0m0.454 ms - 1082[0m
+[0mGET /stylesheets/bootstrap.css [32m200 [0m0.634 ms - 156811[0m
+POST comment route
+{ Name: 'try', Comment: 'now' }
+{ _id: 56e2640f3188403b1def5d9e, Comment: 'now', Name: 'try' }
+{ _id: 56e2640f3188403b1def5d9e,
+  Comment: 'now',
+  Name: 'try',
+  __v: 0 }
+[0mPOST /comment [32m200 [0m3.684 ms - 2[0m
+[0mGET /? [36m304 [0m0.413 ms - -[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m0.433 ms - -[0m
+[0mGET /javascripts/comments.js [32m200 [0m1.426 ms - 1112[0m
+[0mGET /stylesheets/bootstrap.css [32m200 [0m0.641 ms - 156811[0m
+POST comment route
+{ Name: 'Try', Comment: 'again' }
+{ _id: 56e264583188403b1def5d9f, Comment: 'again', Name: 'Try' }
+{ _id: 56e264583188403b1def5d9f,
+  Comment: 'again',
+  Name: 'Try',
+  __v: 0 }
+[0mPOST /comment [32m200 [0m2.606 ms - 2[0m
+[0mGET /? [32m200 [0m0.800 ms - 2147[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m0.628 ms - -[0m
+[0mGET /javascripts/comments.js [32m200 [0m0.581 ms - 1104[0m
+[0mGET /stylesheets/bootstrap.css [32m200 [0m0.685 ms - 156811[0m
+POST comment route
+{ Name: 'attempy', Comment: '3' }
+{ _id: 56e264743188403b1def5da0, Comment: '3', Name: 'attempy' }
+{ _id: 56e264743188403b1def5da0,
+  Comment: '3',
+  Name: 'attempy',
+  __v: 0 }
+[0mPOST /comment [32m200 [0m2.342 ms - 2[0m
+[0mGET /? [36m304 [0m0.391 ms - -[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m0.445 ms - -[0m
+[0mGET /javascripts/comments.js [32m200 [0m0.475 ms - 1095[0m
+[0mGET /stylesheets/bootstrap.css [32m200 [0m0.739 ms - 156811[0m
+POST comment route
+{ Name: 'attempt', Comment: '4' }
+{ _id: 56e2648a3188403b1def5da1, Comment: '4', Name: 'attempt' }
+{ _id: 56e2648a3188403b1def5da1,
+  Comment: '4',
+  Name: 'attempt',
+  __v: 0 }
+[0mPOST /comment [32m200 [0m3.189 ms - 2[0m
+In the GET route?
+[ { __v: 0,
+    Comment: 'Flintstone',
+    Name: 'Fred',
+    _id: 56d8778fc5d9177b4ecd927b },
+  { __v: 0,
+    Comment: 'Flinstone',
+    Name: 'Fred',
+    _id: 56d878409a62bbb84e926718 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'Lucien',
+    _id: 56e1a80b46abe6fa1a002918 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'Lucien',
+    _id: 56e1a80e46abe6fa1a002919 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'Lucien',
+    _id: 56e1a81146abe6fa1a00291a },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'Lucien',
+    _id: 56e1a81246abe6fa1a00291b },
+  { __v: 0,
+    Comment: 'comment2',
+    Name: 'User',
+    _id: 56e1a81c46abe6fa1a00291c },
+  { __v: 0,
+    Comment: 'Briscoe',
+    Name: 'Lucien',
+    _id: 56e1aa73b7f60e5e1bb6547f },
+  { __v: 0,
+    Comment: 'Briscoe',
+    Name: 'Lucien',
+    _id: 56e1aa8ceff599761b553721 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'New',
+    _id: 56e1aa99eff599761b553722 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'New',
+    _id: 56e1aa9feff599761b553723 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'New',
+    _id: 56e1aa9feff599761b553724 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'New',
+    _id: 56e1aaa0eff599761b553725 },
+  { __v: 0,
+    Comment: 'comment1',
+    Name: 'user',
+    _id: 56e1abe842bdceaf1b97e126 },
+  { __v: 0,
+    Comment: 'Briscoe',
+    Name: 'Lucien',
+    _id: 56e2539e3188403b1def5d94 },
+  { __v: 0,
+    Comment: 'Briscoe',
+    Name: 'Lucien',
+    _id: 56e25c1a3188403b1def5d95 },
+  { __v: 0,
+    Comment: 'Serialize',
+    Name: 'Test',
+    _id: 56e25fb53188403b1def5d96 },
+  { __v: 0, Comment: '', Name: '', _id: 56e25fe23188403b1def5d97 },
+  { __v: 0,
+    Comment: 'To',
+    Name: 'Try',
+    _id: 56e25feb3188403b1def5d98 },
+  { __v: 0,
+    Comment: 'Over',
+    Name: 'So',
+    _id: 56e2614a3188403b1def5d99 },
+  { __v: 0,
+    Comment: 'Hello there from the other side!',
+    Name: 'Lucien',
+    _id: 56e262553188403b1def5d9a },
+  { __v: 0, Comment: '', Name: '', _id: 56e262863188403b1def5d9b },
+  { __v: 0,
+    Comment: 'again',
+    Name: 'try',
+    _id: 56e262ce3188403b1def5d9c },
+  { __v: 0,
+    Comment: 'From the other side',
+    Name: 'Hello',
+    _id: 56e263003188403b1def5d9d },
+  { __v: 0,
+    Comment: 'now',
+    Name: 'try',
+    _id: 56e2640f3188403b1def5d9e },
+  { __v: 0,
+    Comment: 'again',
+    Name: 'Try',
+    _id: 56e264583188403b1def5d9f },
+  { __v: 0,
+    Comment: '3',
+    Name: 'attempy',
+    _id: 56e264743188403b1def5da0 },
+  { __v: 0,
+    Comment: '4',
+    Name: 'attempt',
+    _id: 56e2648a3188403b1def5da1 } ]
+[0mGET /comment [32m200 [0m11.345 ms - 2168[0m
+POST comment route
+{ Name: 'try', Comment: 'again' }
+{ _id: 56e264b93188403b1def5da2, Comment: 'again', Name: 'try' }
+{ _id: 56e264b93188403b1def5da2,
+  Comment: 'again',
+  Name: 'try',
+  __v: 0 }
+[0mPOST /comment [32m200 [0m2.252 ms - 2[0m
+[0mGET /? [36m304 [0m0.380 ms - -[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m0.397 ms - -[0m
+[0mGET /javascripts/comments.js [32m200 [0m0.486 ms - 1095[0m
+[0mGET /stylesheets/bootstrap.css [32m200 [0m0.708 ms - 156811[0m
+POST comment route
+{ Name: 'new', Comment: 'refresh' }
+{ _id: 56e264c23188403b1def5da3,
+  Comment: 'refresh',
+  Name: 'new' }
+{ _id: 56e264c23188403b1def5da3,
+  Comment: 'refresh',
+  Name: 'new',
+  __v: 0 }
+[0mPOST /comment [32m200 [0m2.971 ms - 2[0m
+[0mGET /? [32m200 [0m0.647 ms - 2178[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m0.392 ms - -[0m
+[0mGET /javascripts/comments.js [36m304 [0m0.285 ms - -[0m
+[0mGET /stylesheets/bootstrap.css [32m200 [0m0.512 ms - 156811[0m
+POST comment route
+{ Name: 'try', Comment: 'once more' }
+{ _id: 56e264dc3188403b1def5da4,
+  Comment: 'once more',
+  Name: 'try' }
+{ _id: 56e264dc3188403b1def5da4,
+  Comment: 'once more',
+  Name: 'try',
+  __v: 0 }
+[0mPOST /comment [32m200 [0m2.387 ms - 2[0m
+[0mGET /? [32m200 [0m0.824 ms - 2196[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m0.391 ms - -[0m
+[0mGET /javascripts/comments.js [32m200 [0m1.160 ms - 1096[0m
+[0mGET /stylesheets/bootstrap.css [32m200 [0m0.601 ms - 156811[0m
+[0mGET /? [32m200 [0m0.631 ms - 2205[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m0.868 ms - -[0m
+[0mGET /javascripts/comments.js [36m304 [0m0.302 ms - -[0m
+[0mGET /stylesheets/bootstrap.css [32m200 [0m4.085 ms - 156811[0m
+[0mGET /? [32m200 [0m0.811 ms - 2205[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m0.401 ms - -[0m
+[0mGET /javascripts/comments.js [36m304 [0m0.336 ms - -[0m
+[0mGET /stylesheets/bootstrap.css [32m200 [0m0.548 ms - 156811[0m
+[0mGET /? [32m200 [0m0.611 ms - 2235[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m0.409 ms - -[0m
+[0mGET /javascripts/comments.js [36m304 [0m0.279 ms - -[0m
+[0mGET /stylesheets/bootstrap.css [32m200 [0m0.588 ms - 156811[0m
+[0mGET /? [36m304 [0m0.532 ms - -[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m0.351 ms - -[0m
+[0mGET /javascripts/comments.js [36m304 [0m0.437 ms - -[0m
+[0mGET /stylesheets/bootstrap.css [32m200 [0m0.483 ms - 156811[0m
+[0mGET /? [32m200 [0m0.625 ms - 2228[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m0.506 ms - -[0m
+[0mGET /javascripts/comments.js [36m304 [0m0.253 ms - -[0m
+[0mGET /stylesheets/bootstrap.css [32m200 [0m0.578 ms - 156811[0m
+[0mGET /? [32m200 [0m0.716 ms - 2226[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m0.419 ms - -[0m
+[0mGET /javascripts/comments.js [36m304 [0m0.262 ms - -[0m
+[0mGET /stylesheets/bootstrap.css [32m200 [0m0.562 ms - 156811[0m
+In the GET route?
+[ { __v: 0,
+    Comment: 'Flintstone',
+    Name: 'Fred',
+    _id: 56d8778fc5d9177b4ecd927b },
+  { __v: 0,
+    Comment: 'Flinstone',
+    Name: 'Fred',
+    _id: 56d878409a62bbb84e926718 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'Lucien',
+    _id: 56e1a80b46abe6fa1a002918 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'Lucien',
+    _id: 56e1a80e46abe6fa1a002919 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'Lucien',
+    _id: 56e1a81146abe6fa1a00291a },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'Lucien',
+    _id: 56e1a81246abe6fa1a00291b },
+  { __v: 0,
+    Comment: 'comment2',
+    Name: 'User',
+    _id: 56e1a81c46abe6fa1a00291c },
+  { __v: 0,
+    Comment: 'Briscoe',
+    Name: 'Lucien',
+    _id: 56e1aa73b7f60e5e1bb6547f },
+  { __v: 0,
+    Comment: 'Briscoe',
+    Name: 'Lucien',
+    _id: 56e1aa8ceff599761b553721 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'New',
+    _id: 56e1aa99eff599761b553722 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'New',
+    _id: 56e1aa9feff599761b553723 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'New',
+    _id: 56e1aa9feff599761b553724 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'New',
+    _id: 56e1aaa0eff599761b553725 },
+  { __v: 0,
+    Comment: 'comment1',
+    Name: 'user',
+    _id: 56e1abe842bdceaf1b97e126 },
+  { __v: 0,
+    Comment: 'Briscoe',
+    Name: 'Lucien',
+    _id: 56e2539e3188403b1def5d94 },
+  { __v: 0,
+    Comment: 'Briscoe',
+    Name: 'Lucien',
+    _id: 56e25c1a3188403b1def5d95 },
+  { __v: 0,
+    Comment: 'Serialize',
+    Name: 'Test',
+    _id: 56e25fb53188403b1def5d96 },
+  { __v: 0, Comment: '', Name: '', _id: 56e25fe23188403b1def5d97 },
+  { __v: 0,
+    Comment: 'To',
+    Name: 'Try',
+    _id: 56e25feb3188403b1def5d98 },
+  { __v: 0,
+    Comment: 'Over',
+    Name: 'So',
+    _id: 56e2614a3188403b1def5d99 },
+  { __v: 0,
+    Comment: 'Hello there from the other side!',
+    Name: 'Lucien',
+    _id: 56e262553188403b1def5d9a },
+  { __v: 0, Comment: '', Name: '', _id: 56e262863188403b1def5d9b },
+  { __v: 0,
+    Comment: 'again',
+    Name: 'try',
+    _id: 56e262ce3188403b1def5d9c },
+  { __v: 0,
+    Comment: 'From the other side',
+    Name: 'Hello',
+    _id: 56e263003188403b1def5d9d },
+  { __v: 0,
+    Comment: 'now',
+    Name: 'try',
+    _id: 56e2640f3188403b1def5d9e },
+  { __v: 0,
+    Comment: 'again',
+    Name: 'Try',
+    _id: 56e264583188403b1def5d9f },
+  { __v: 0,
+    Comment: '3',
+    Name: 'attempy',
+    _id: 56e264743188403b1def5da0 },
+  { __v: 0,
+    Comment: '4',
+    Name: 'attempt',
+    _id: 56e2648a3188403b1def5da1 },
+  { __v: 0,
+    Comment: 'again',
+    Name: 'try',
+    _id: 56e264b93188403b1def5da2 },
+  { __v: 0,
+    Comment: 'refresh',
+    Name: 'new',
+    _id: 56e264c23188403b1def5da3 },
+  { __v: 0,
+    Comment: 'once more',
+    Name: 'try',
+    _id: 56e264dc3188403b1def5da4 } ]
+[0mGET /comment [32m200 [0m13.114 ms - 2396[0m
+POST comment route
+{ Name: 'try', Comment: 'again' }
+{ _id: 56e266013188403b1def5da5, Comment: 'again', Name: 'try' }
+{ _id: 56e266013188403b1def5da5,
+  Comment: 'again',
+  Name: 'try',
+  __v: 0 }
+[0mPOST /comment [32m200 [0m3.420 ms - 2[0m
+In the GET route?
+[ { __v: 0,
+    Comment: 'Flintstone',
+    Name: 'Fred',
+    _id: 56d8778fc5d9177b4ecd927b },
+  { __v: 0,
+    Comment: 'Flinstone',
+    Name: 'Fred',
+    _id: 56d878409a62bbb84e926718 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'Lucien',
+    _id: 56e1a80b46abe6fa1a002918 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'Lucien',
+    _id: 56e1a80e46abe6fa1a002919 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'Lucien',
+    _id: 56e1a81146abe6fa1a00291a },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'Lucien',
+    _id: 56e1a81246abe6fa1a00291b },
+  { __v: 0,
+    Comment: 'comment2',
+    Name: 'User',
+    _id: 56e1a81c46abe6fa1a00291c },
+  { __v: 0,
+    Comment: 'Briscoe',
+    Name: 'Lucien',
+    _id: 56e1aa73b7f60e5e1bb6547f },
+  { __v: 0,
+    Comment: 'Briscoe',
+    Name: 'Lucien',
+    _id: 56e1aa8ceff599761b553721 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'New',
+    _id: 56e1aa99eff599761b553722 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'New',
+    _id: 56e1aa9feff599761b553723 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'New',
+    _id: 56e1aa9feff599761b553724 },
+  { __v: 0,
+    Comment: 'Comment',
+    Name: 'New',
+    _id: 56e1aaa0eff599761b553725 },
+  { __v: 0,
+    Comment: 'comment1',
+    Name: 'user',
+    _id: 56e1abe842bdceaf1b97e126 },
+  { __v: 0,
+    Comment: 'Briscoe',
+    Name: 'Lucien',
+    _id: 56e2539e3188403b1def5d94 },
+  { __v: 0,
+    Comment: 'Briscoe',
+    Name: 'Lucien',
+    _id: 56e25c1a3188403b1def5d95 },
+  { __v: 0,
+    Comment: 'Serialize',
+    Name: 'Test',
+    _id: 56e25fb53188403b1def5d96 },
+  { __v: 0, Comment: '', Name: '', _id: 56e25fe23188403b1def5d97 },
+  { __v: 0,
+    Comment: 'To',
+    Name: 'Try',
+    _id: 56e25feb3188403b1def5d98 },
+  { __v: 0,
+    Comment: 'Over',
+    Name: 'So',
+    _id: 56e2614a3188403b1def5d99 },
+  { __v: 0,
+    Comment: 'Hello there from the other side!',
+    Name: 'Lucien',
+    _id: 56e262553188403b1def5d9a },
+  { __v: 0, Comment: '', Name: '', _id: 56e262863188403b1def5d9b },
+  { __v: 0,
+    Comment: 'again',
+    Name: 'try',
+    _id: 56e262ce3188403b1def5d9c },
+  { __v: 0,
+    Comment: 'From the other side',
+    Name: 'Hello',
+    _id: 56e263003188403b1def5d9d },
+  { __v: 0,
+    Comment: 'now',
+    Name: 'try',
+    _id: 56e2640f3188403b1def5d9e },
+  { __v: 0,
+    Comment: 'again',
+    Name: 'Try',
+    _id: 56e264583188403b1def5d9f },
+  { __v: 0,
+    Comment: '3',
+    Name: 'attempy',
+    _id: 56e264743188403b1def5da0 },
+  { __v: 0,
+    Comment: '4',
+    Name: 'attempt',
+    _id: 56e2648a3188403b1def5da1 },
+  { __v: 0,
+    Comment: 'again',
+    Name: 'try',
+    _id: 56e264b93188403b1def5da2 },
+  { __v: 0,
+    Comment: 'refresh',
+    Name: 'new',
+    _id: 56e264c23188403b1def5da3 },
+  { __v: 0,
+    Comment: 'once more',
+    Name: 'try',
+    _id: 56e264dc3188403b1def5da4 },
+  { __v: 0,
+    Comment: 'again',
+    Name: 'try',
+    _id: 56e266013188403b1def5da5 } ]
+[0mGET /comment [32m200 [0m11.250 ms - 2470[0m
+[0mGET /? [36m304 [0m0.367 ms - -[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m1.112 ms - -[0m
+[0mGET /javascripts/comments.js [36m304 [0m0.287 ms - -[0m
+[0mGET /stylesheets/bootstrap.css [32m200 [0m0.627 ms - 156811[0m
+[0mGET /? [32m200 [0m0.761 ms - 2226[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m0.342 ms - -[0m
+[0mGET /javascripts/comments.js [32m200 [0m0.469 ms - 1096[0m
+[0mGET /stylesheets/bootstrap.css [32m200 [0m0.682 ms - 156811[0m
+[0mGET /? [32m200 [0m0.656 ms - 2245[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m1.752 ms - -[0m
+[0mGET /javascripts/comments.js [36m304 [0m0.319 ms - -[0m
+[0mGET /stylesheets/bootstrap.css [32m200 [0m0.563 ms - 156811[0m
+[0mGET /? [32m200 [0m0.694 ms - 2255[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m0.376 ms - -[0m
+[0mGET /javascripts/comments.js [36m304 [0m0.238 ms - -[0m
+[0mGET /stylesheets/bootstrap.css [32m200 [0m0.539 ms - 156811[0m
+[0mGET /? [36m304 [0m0.378 ms - -[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m2.375 ms - -[0m
+[0mGET /javascripts/comments.js [36m304 [0m0.255 ms - -[0m
+[0mGET /stylesheets/bootstrap.css [32m200 [0m0.414 ms - 156811[0m
+[0mGET /? [36m304 [0m0.504 ms - -[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m0.543 ms - -[0m
+[0mGET /javascripts/comments.js [36m304 [0m0.479 ms - -[0m
+[0mGET /stylesheets/bootstrap.css [32m200 [0m0.545 ms - 156811[0m
+[0mGET /? [32m200 [0m1.808 ms - 2165[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m0.428 ms - -[0m
+[0mGET /javascripts/comments.js [36m304 [0m0.338 ms - -[0m
+[0mGET /stylesheets/bootstrap.css [32m200 [0m2.869 ms - 156811[0m
+[0mGET /? [32m200 [0m0.675 ms - 2169[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m0.401 ms - -[0m
+[0mGET /javascripts/comments.js [36m304 [0m0.239 ms - -[0m
+[0mGET /stylesheets/bootstrap.css [32m200 [0m0.631 ms - 156811[0m
+[0mGET /? [32m200 [0m0.737 ms - 2165[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m0.390 ms - -[0m
+[0mGET /javascripts/comments.js [36m304 [0m0.319 ms - -[0m
+[0mGET /stylesheets/bootstrap.css [32m200 [0m0.575 ms - 156811[0m
+[0mGET /? [36m304 [0m0.328 ms - -[0m
+[0mGET /stylesheets/bootstrap.css [32m200 [0m0.741 ms - 156831[0m
+[0mGET /javascripts/comments.js [36m304 [0m0.337 ms - -[0m
+[0mGET /? [36m304 [0m0.357 ms - -[0m
+[0mGET /javascripts/comments.js [36m304 [0m0.384 ms - -[0m
+[0mGET /stylesheets/bootstrap.css [32m200 [0m0.724 ms - 156830[0m
+[0mGET /stylesheets/bootstrap.css [32m206 [0m2.396 ms - 1[0m
+[0mGET /stylesheets/bootstrap.css [32m206 [0m0.914 ms - 143690[0m
+[0mGET /? [36m304 [0m0.392 ms - -[0m
+[0mGET /stylesheets/bootstrap.css [32m200 [0m0.742 ms - 156830[0m
+[0mGET /javascripts/comments.js [36m304 [0m0.532 ms - -[0m
+[0mGET /stylesheets/bootstrap.css [32m206 [0m0.722 ms - 1[0m
+[0mGET /stylesheets/bootstrap.css [32m206 [0m0.978 ms - 143690[0m
+[0mGET /? [36m304 [0m0.424 ms - -[0m
+[0mGET /javascripts/comments.js [36m304 [0m0.290 ms - -[0m
+[0mGET /stylesheets/bootstrap.css [32m200 [0m1.297 ms - 156830[0m
+[0mGET /stylesheets/bootstrap.css [32m206 [0m0.635 ms - 1[0m
+[0mGET /stylesheets/bootstrap.css [32m206 [0m0.627 ms - 143690[0m
+[0mGET /? [32m200 [0m0.711 ms - 2145[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m0.423 ms - -[0m
+[0mGET /javascripts/comments.js [36m304 [0m0.235 ms - -[0m
+[0mGET /stylesheets/bootstrap.css [32m200 [0m0.700 ms - 156830[0m
